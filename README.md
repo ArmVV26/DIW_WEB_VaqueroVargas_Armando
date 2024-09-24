@@ -1,1 +1,0 @@
-Repositorio sobre desarrollo en entorno de cliente
